@@ -19,7 +19,7 @@
         <h1>Welcome to Foodie</h1>
         <h3>Get the food you love!!</h3>
         <div class="order-btn">
-            <button class="btn btn-primary">Order</button>
+            <a href="<?=base_url('menu')?>" style="width: 135px;" class="btn btn-primary">Order</a>
         </div>
     </div>
 </div>

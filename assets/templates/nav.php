@@ -1,7 +1,7 @@
 <header class="">
     <div class="container">
         <div class="row">
-            <nav class="navbar navbar-expand-lg mh-nav nav-btn">
+            <nav class="navbar navbar-light navbar-expand-lg mh-nav nav-btn">
                 <button class="navbar-toggler" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                     aria-label="Toggle navigation">
